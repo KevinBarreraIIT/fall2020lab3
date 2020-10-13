@@ -216,7 +216,7 @@ h1{
 
  p {
   color: whitesmoke;
-  margin: 2.25em;
+  margin: 2em;
 }
 
 input {
@@ -225,7 +225,7 @@ input {
   margin: 8px;
   box-sizing: border-box;
   border: none;
-  background: #d7d7d9;
+  background: #bbbbbb;
   color: white;
 }
 
